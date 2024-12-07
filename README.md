@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+My name is Michael
+- 🌱 I'm a Mechanical Engineering student (3D Computer Vision and Robotics) at Purdue University under Dr. Song Zhang
+- 👀 Interested in intelligent robotics, space exploration, and mathematics
+- 📫 How to reach me: goldbe13@purdue.edu | michaelwgoldberg314@gmail.com
