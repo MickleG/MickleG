@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I'm a Mechanical Engineering student (3D Computer Vision and Robotics) at Purdue University under Dr. Song Zhang
+- 🌱 I'm a Mechanical Engineering master's student researching 3D computer vision and robotics at Purdue under Dr. Song Zhang
 - 👀 Interested in intelligent robotics, space exploration, and mathematics
 - 📫 How to reach me: goldbe13@purdue.edu | michaelwgoldberg314@gmail.com
